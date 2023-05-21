@@ -14,7 +14,10 @@ header {
 
 H1,H2 {
     font-family: 'Pangolin', cursive;
+    text-align: center;
 }
+
+/* header styles */
 
 header h1 {
     color:aliceblue;
